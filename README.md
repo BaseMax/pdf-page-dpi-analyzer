@@ -2,6 +2,10 @@
 
 A browser-based tool that analyzes PDF files to detect page size, DPI, orientation, and print suitability. Built with pdf.js and Tailwind CSS.
 
+![PDF Page DPI Analyzer](preview/1.jpg)
+
+![PDF Page DPI Analyzer](preview/2.jpg)
+
 ## Features
 
 - 📄 **PDF Analysis**: Load and analyze any PDF file directly in your browser
